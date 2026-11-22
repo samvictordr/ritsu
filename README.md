@@ -24,7 +24,7 @@ or watch this repository for updates.
 - **Social:** add friends with a private friend code and compare progress (kinda borked for now, under dev)
 - All four modes: osu!, taiko, catch and mania.
 
-You sign in with your osu! account on osu!'s own website. Ritsu really sees
+You sign in with your osu! account on osu! web. Ritsu really sees
 your password its just a osu! connector per se
 
 ## Report a bug or suggest something

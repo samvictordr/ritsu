@@ -1,11 +1,11 @@
-# Ritsu
+# ritsu!
 
-A companion app for osu! players. Ritsu shows your stats, top plays, rank
+A companion app for osu! players. ritsu! shows your stats, top plays, rank
 history and friends in one place on your phone.
 
 ## Join the iOS beta
 
-Ritsu is in public beta on TestFlight.
+ritsu! is in public beta on TestFlight.
 
 1. Install [TestFlight](https://apps.apple.com/app/testflight/id899247664) on your iPhone.
 2. Open the [beta link](https://testflight.apple.com/join/UsvCNMp7).
@@ -24,7 +24,7 @@ or watch this repository for updates.
 - **Social:** add friends with a private friend code and compare progress (kinda borked for now, under dev)
 - All four modes: osu!, taiko, catch and mania.
 
-You sign in with your osu! account on osu! web. Ritsu really sees
+You sign in with your osu! account on osu! web. ritsu! never really sees
 your password its just a osu! connector per se
 
 ## Report a bug or suggest something
@@ -34,7 +34,7 @@ your password its just a osu! connector per se
 - **Quick questions and chat:** Discord (invite coming soon).
 
 You can also send feedback from inside TestFlight: take a screenshot while
-using Ritsu and tap **Share Beta Feedback**.
+using ritsu! and tap **Share Beta Feedback**.
 
 Please search existing issues before opening a new one.
 

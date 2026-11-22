@@ -15,7 +15,7 @@ Requirements: an iPhone on iOS 15 or later. iPad is not supported yet.
 Beta spots are limited; if the link says the beta is full, check back later
 or watch this repository for updates.
 
-## features the app currents has (works. i think. hope.)
+## features the app currently has (that work atleast. i think. hope)
 
 - **Home:** pp, global and country rank, accuracy, play count, at a glance.
 - **Stats:** rank and pp history (via [osu!track](https://ameobea.me/osutrack/)), grade counts, mods in your top plays.

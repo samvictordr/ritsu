@@ -1,7 +1,19 @@
+<p align="center">
+  <img src="media/icon.png" width="128" alt="ritsu! app icon">
+</p>
+
 # ritsu!
 
 A companion app for osu! players. ritsu! shows your stats, top plays, rank
 history and friends in one place on your phone.
+
+## demo
+
+<p align="center">
+  <a href="media/demo.mp4"><img src="media/demo-poster.jpg" width="280" alt="ritsu! demo video"></a>
+  <br>
+  <a href="media/demo.mp4">▶ watch the demo (1:43)</a>
+</p>
 
 ## join the iOS beta
 

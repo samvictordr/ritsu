@@ -7,14 +7,6 @@
 A companion app for osu! players. ritsu! shows your stats, top plays, rank
 history and friends in one place on your phone.
 
-## demo
-
-<p align="center">
-  <a href="media/demo.mp4"><img src="media/demo-poster.jpg" width="280" alt="ritsu! demo video"></a>
-  <br>
-  <a href="media/demo.mp4">▶ watch the demo (1:43)</a>
-</p>
-
 ## join the iOS beta
 
 ritsu! is in public beta on TestFlight.
@@ -49,6 +41,12 @@ you can also send feedback from inside TestFlight ofc: take a screenshot while
 using ritsu! and tap **Share Beta Feedback**.
 
 also, make sure if you're opening an issue, that issue hasn't been opened before (or similar ones)
+
+## here's a quick demo if you wanna see haha (this is build 3.0.0-4 public beta)
+
+
+https://github.com/user-attachments/assets/24929c72-26df-47bb-8550-ca4d008516f6
+
 
 ## Privacy
 

@@ -58,7 +58,8 @@ what's new with 3.1.0-1:
  - Personal bests cards removed, set up redesigned
  - Added Sentry user feedback, prepping for Android release
  - Laid foundation for Widgets and customizable accents for the app theme, will ship in next minor version
-
+ - Play time showing 0h on the Me tab is fixed
+ - The stats history graph transitions are fixed
 
 ## features in pipeline
 - [ ] Widget Support (choices bw pp, Global Rank, ii, or country rank) - Home screen (+ lock screen for iOS)

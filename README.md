@@ -65,6 +65,9 @@ what's new with 3.1.0-1:
 - [ ] Compatibility for iPad & iPhone Duo
 - [ ] Customizable two tone accents for app theming
 - [ ] Android release (public beta)
+- [ ] Play-style and improvement analysis (ferry ii)
+- [ ] Mutualify integration (user feedback, i have to look into the public api for this before committing to implementing)
+- [ ] Light and dark mode toggles
 
 
 ## Privacy

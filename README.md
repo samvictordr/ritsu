@@ -42,10 +42,22 @@ using ritsu! and tap **Share Beta Feedback**.
 
 also, make sure if you're opening an issue, that issue hasn't been opened before (or similar ones)
 
-## here's a quick demo if you wanna see haha (this is build 3.0.0-4 public beta)
+## here's a quick demo if you wanna see (this is build 3.1.0-1 public beta)
 
 
-https://github.com/user-attachments/assets/24929c72-26df-47bb-8550-ca4d008516f6
+
+https://github.com/user-attachments/assets/21efa22c-9e68-4839-8c39-7a5800bb601c
+
+
+what's new with 3.1.0-1:
+ - UI updates. apparently, a lot of people thought the light bloom and the gradient in general were "hallmarks of ai slop" which is fair but slop implies the app doesn't work, which it does so idk. 
+ - Hit distribution percentage bug fixed in the stats history page
+ - redesigned profile page (Me)
+ - brought home cards to consistent sizes
+ - Detailed map display now collapses to header on scroll, previously did not in 3.0.0-4
+ - Personal bests cards removed, set up redesigned
+ - Added Sentry user feedback, prepping for Android release
+ - Laid foundation for Widgets and customizable accents for the app theme, will ship in next minor version
 
 
 ## Privacy

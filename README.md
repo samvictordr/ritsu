@@ -67,4 +67,4 @@ basically no ads, no analytics, no tracking, except for Sentry which we use for 
 
 ## Not affiliated with osu!
 
-Ritsu is an independent, free fan project. It is not affiliated with, endorsed by, or sponsored by ppy Pty Ltd. "osu!" is a trademark of ppy Pty Ltd.
+ritsu! is an independent, free fan project. It is not affiliated with, endorsed by, or sponsored by ppy Pty Ltd. "osu!" is a trademark of ppy Pty Ltd.

@@ -49,7 +49,7 @@ also, make sure if you're opening an issue, that issue hasn't been opened before
 https://github.com/user-attachments/assets/21efa22c-9e68-4839-8c39-7a5800bb601c
 
 
-what's new with 3.1.0-1:
+what's new with 3.1.0-3[^1]:
  - UI updates. apparently, a lot of people thought the light bloom and the gradient in general were "hallmarks of ai slop" which is fair but slop implies the app doesn't work, which it does so idk. 
  - Hit distribution percentage bug fixed in the stats history page
  - redesigned profile page (Me)
@@ -79,3 +79,5 @@ basically no ads, no analytics, no tracking, except for Sentry which we use for 
 ## Not affiliated with osu!
 
 ritsu! is an independent, free fan project. It is not affiliated with, endorsed by, or sponsored by ppy Pty Ltd. "osu!" is a trademark of ppy Pty Ltd.
+
+[^1]: Version 3.1.0-3 is basically what was distributed in the public beta test as 3.0.0-5, I wanted to clean up my version tags so it was made into 3.1.0-3. 3.0.0-5 will be expired from testing soon, build 4 of v3 should have already been expired at the time of this edit.

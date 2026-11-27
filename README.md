@@ -60,6 +60,13 @@ what's new with 3.1.0-1:
  - Laid foundation for Widgets and customizable accents for the app theme, will ship in next minor version
 
 
+## features in pipeline
+- [ ] Widget Support (choices bw pp, Global Rank, ii, or country rank) - Home screen (+ lock screen for iOS)
+- [ ] Compatibility for iPad & iPhone Duo
+- [ ] Customizable two tone accents for app theming
+- [ ] Android release (public beta)
+
+
 ## Privacy
 
 Read the [privacy policy](https://github.com/samvictordr/ritsu-docs/blob/main/PRIVACY_POLICY.md).

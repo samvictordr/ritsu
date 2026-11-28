@@ -35,7 +35,7 @@ your password its just a osu! connector per se
 
 - **Bugs:** [open a bug report](../../issues/new?template=bug_report.yml).
 - **Ideas:** [open a feature request](../../issues/new?template=feature_request.yml).
-- **Quick questions and chat (if you wanna get in direct touch w me):** Discord (invite coming soon). 
+- **Quick questions and chat (if you wanna get in direct touch w me):** (invite coming soon). 
 
 you can also send feedback from inside TestFlight ofc: take a screenshot while
 using ritsu! and tap **Share Beta Feedback**.
@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/21efa22c-9e68-4839-8c39-7a5800bb601c
 
 
 what's new with 3.1.0-3[^1]:
- - UI updates. apparently, a lot of people thought the light bloom and the gradient in general were "hallmarks of ai slop" which is fair but slop implies the app doesn't work, which it does so idk. 
+ - UI updates. took feedback to heart.
  - Hit distribution percentage bug fixed in the stats history page
  - redesigned profile page (Me)
  - brought home cards to consistent sizes

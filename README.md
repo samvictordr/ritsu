@@ -67,17 +67,46 @@ what's new with 3.1.0-3[^1]:
 - [ ] Customizable two tone accents for app theming
 - [ ] Android release (public beta)
 - [ ] Play-style and improvement analysis (ferry ii)
-- [ ] Mutualify integration (user feedback, i have to look into the public api for this before committing to implementing)
+- [ ] Mutualify feature parity
 - [ ] Light and dark mode toggles
 
 
 ## Privacy
 
 Read the [privacy policy](https://github.com/samvictordr/ritsu-docs/blob/main/PRIVACY_POLICY.md).
-basically no ads, no analytics, no tracking, except for Sentry which we use for error mitigation and nothing else. sentry collects strictly non-personal stuff and data is stored under EU regulations regardless
+basically no ads, no analytics, no tracking, except for Sentry which we use for error mitigation and nothing else. sentry collects strictly non-personal stuff and data is stored under EU regulations regardless.
 
-## Not affiliated with osu!
+## FAQs:
+<details>
+<summary>Why use it over the osu! website? </summary>
+<br>
+Phone-first, the Spotify song lookup, osu!track history in one place, and widgets coming in 3.2 (Homescreen widgets, and lockscreen as well)
+</details>
 
-ritsu! is an independent, free fan project. It is not affiliated with, endorsed by, or sponsored by ppy Pty Ltd. "osu!" is a trademark of ppy Pty Ltd.
+<details>
+<summary>Why do I have to log in?</summary>
+<br>
+you have to sign in so the app can pull your stats from osu!. your stats are kept on your phone and the only thing on ritsu!'s server is what friends needs (your osu! id, username and friend code). full details in the privacy policy. A username-only sign in is on the feature pipeline as well
+</details>
+
+
+<details>
+<summary>Is it or will it be open source?</summary>
+<br>
+Not for now no. It's planned, soon.
+</details>
+
+<details>
+<summary>is there an Android build?</summary>
+<br>
+Planned, after iOS is stable and in production. but rest assured, there definitely will be a Android build. When it does drop, it will show only in the readme here as a beta link and is likely not be announced anywhere. 
+</details>
+
+
+<br/>
+
+> [!NOTE]
+> ritsu! is an independent, free fan project. It is not affiliated with, endorsed by, or sponsored by ppy Pty Ltd. "osu!" is a trademark of ppy Pty Ltd.
+
 
 [^1]: Version 3.1.0-3 is basically what was distributed in the public beta test as 3.0.0-5, I wanted to clean up my version tags so it was made into 3.1.0-3. 3.0.0-5 will be expired from testing soon, build 4 of v3 should have already been expired at the time of this edit.
